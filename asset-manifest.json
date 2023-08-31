@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/deploy-github-pages/static/css/main.682a9573.css",
-    "main.js": "/deploy-github-pages/static/js/main.7cb455f7.js",
+    "main.css": "/deploy-github-pages/static/css/main.27086fc1.css",
+    "main.js": "/deploy-github-pages/static/js/main.8da247aa.js",
     "static/media/image1.jpg": "/deploy-github-pages/static/media/image1.b88463dc5dac3b3f8b11.jpg",
     "static/media/image2.jpg": "/deploy-github-pages/static/media/image2.b88463dc5dac3b3f8b11.jpg",
     "static/media/image3.jpg": "/deploy-github-pages/static/media/image3.b88463dc5dac3b3f8b11.jpg",
     "static/media/image5.jpg": "/deploy-github-pages/static/media/image5.b88463dc5dac3b3f8b11.jpg",
     "static/media/image4.png": "/deploy-github-pages/static/media/image4.67ec1155a62a142a14e1.png",
     "index.html": "/deploy-github-pages/index.html",
-    "main.682a9573.css.map": "/deploy-github-pages/static/css/main.682a9573.css.map",
-    "main.7cb455f7.js.map": "/deploy-github-pages/static/js/main.7cb455f7.js.map"
+    "main.27086fc1.css.map": "/deploy-github-pages/static/css/main.27086fc1.css.map",
+    "main.8da247aa.js.map": "/deploy-github-pages/static/js/main.8da247aa.js.map"
   },
   "entrypoints": [
-    "static/css/main.682a9573.css",
-    "static/js/main.7cb455f7.js"
+    "static/css/main.27086fc1.css",
+    "static/js/main.8da247aa.js"
   ]
 }
