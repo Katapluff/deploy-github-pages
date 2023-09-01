@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/deploy-github-pages/static/css/main.27086fc1.css",
-    "main.js": "/deploy-github-pages/static/js/main.3c7bb1fa.js",
+    "main.js": "/deploy-github-pages/static/js/main.8a9d78c6.js",
     "static/media/image1.jpg": "/deploy-github-pages/static/media/image1.b88463dc5dac3b3f8b11.jpg",
     "static/media/image5.jpg": "/deploy-github-pages/static/media/image5.b88463dc5dac3b3f8b11.jpg",
     "static/media/todolist.png": "/deploy-github-pages/static/media/todolist.44236c6cbf41c6b4f499.png",
@@ -10,10 +10,10 @@
     "static/media/snake.png": "/deploy-github-pages/static/media/snake.f6b43a8be5426978d311.png",
     "index.html": "/deploy-github-pages/index.html",
     "main.27086fc1.css.map": "/deploy-github-pages/static/css/main.27086fc1.css.map",
-    "main.3c7bb1fa.js.map": "/deploy-github-pages/static/js/main.3c7bb1fa.js.map"
+    "main.8a9d78c6.js.map": "/deploy-github-pages/static/js/main.8a9d78c6.js.map"
   },
   "entrypoints": [
     "static/css/main.27086fc1.css",
-    "static/js/main.3c7bb1fa.js"
+    "static/js/main.8a9d78c6.js"
   ]
 }
